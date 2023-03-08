@@ -10,6 +10,10 @@ This repository contains a simple example of how to use ginkgo and gomega to tes
  go get github.com/onsi/ginkgo/ginkgo
 ```
 
+```bash
+brew install --cask gingko
+```
+
 ## Other tools
 https://transform.tools/json-to-go
 
